@@ -1,16 +1,16 @@
 # element-management
 
-## Project setup
+## Project setup 首先下载项目所需的npm包
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development，本地服务器查看
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production，打包成dist文件夹
 ```
 npm run build
 ```
