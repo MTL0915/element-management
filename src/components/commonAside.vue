@@ -46,14 +46,7 @@
             label:'好书推荐',
             icon:'reading',
             url:'MallManage/MallManage'
-          },
-          {
-            path:'/visitors/visCustomer',
-            name:'visitors',
-            label:'游客管理',
-            icon:'s-custom',
-            url:'VisitorsManage/VisitorsManage'
-          },
+          }
           // {
           //   label:'其他',
           //   icon:'location',
